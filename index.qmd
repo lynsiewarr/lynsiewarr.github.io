@@ -1,7 +1,7 @@
 ---
 title: 'Lynsie Warr'
 subtitle:  '<p>  PhD Candidate <br> University of California Irvine </p>'
-image: "files/index/federica-zoe-ricci.png"
+image: "files/index/lynsiewarr.png"
 
 about:
   id: heading
@@ -31,7 +31,7 @@ Preserving the spirit of childhood for life means preserving the curiosity of le
 Who am I
 Phd whatever
 
-Working with who (link)
+Working with <a href="https://ics.uci.edu/~sternh/" target="_blank"> Hal S. Stern </a>
 
 what research topics
 
@@ -39,7 +39,6 @@ what research interests
 
 applications in ...
 
-<a href="https://ics.uci.edu/~sternh/" target="_blank"> Hal S. Stern </a>
 
-```
+
 :::
