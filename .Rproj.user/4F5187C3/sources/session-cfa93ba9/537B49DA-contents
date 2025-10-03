@@ -1,0 +1,44 @@
+---
+title: 'Lynsie Warr'
+subtitle:  '<p>  PhD Candidate <br> University of California Irvine </p>'
+image: "files/index/lynsiewarr.png"
+
+about:
+  id: heading
+  template: trestles
+  image-width: 60%
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:lwarr@uci.edu.edu  
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=mD3ITJkAAAAJ&hl=en
+      target: _blank 
+    - text: "{{< fa brands github >}} GitHub"
+      href: https://github.com/lynsiewarr
+      target: _blank 
+      
+editor: 
+  mode: source
+---
+
+::: {#heading}
+<!--- <p style="font-size:12px; font-style:italic; color:#2a3733;">
+Preserving the spirit of childhood for life means preserving the curiosity of learning, the pleasure to understand, the desire to communicate. (Bruno Munari)
+</p>
+-->
+
+Who am I
+Phd whatever
+
+Working with <a href="https://ics.uci.edu/~sternh/" target="_blank"> Hal S. Stern </a>
+
+what research topics
+
+what research interests
+
+applications in ...
+
+
+
+:::

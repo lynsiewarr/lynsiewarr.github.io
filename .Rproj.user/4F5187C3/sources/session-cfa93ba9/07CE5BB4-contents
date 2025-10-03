@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+  
+# Meta
+author-meta: "Lynsie Warr"
+
+website:
+  title: "Lynsie Warr"
+  open-graph: true
+  site-url: "https://lynsiewarr.github.io/"
+  navbar:
+    background: "#175e59"
+    foreground: "light"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: files/navbar/cv-lynsiewarr.pdf
+        target: _blank          
+    right:
+      - icon: envelope
+        href: mailto:lwarr@uci.edu 
+        target: _blank    
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=mD3ITJkAAAAJ&hl=en
+        target: _blank         
+      - icon: github
+        href: https://github.com/lynsiewarr
+        target: _blank
+    page-footer: 
+      left: "[Lynsie Warr](http://lynsiewarr.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    
+    reader-mode: true
+
+
+
+format:
+  html:
+    theme: [simplex, style.scss]
+    toc: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
