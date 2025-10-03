@@ -10,7 +10,7 @@ website:
   open-graph: true
   site-url: "https://lynsiewarr.github.io/"
   navbar:
-    background: "#175e59"
+    background: "#330072"
     foreground: "light"
     left:
       - text: Home
@@ -26,9 +26,12 @@ website:
       - icon: envelope
         href: mailto:lwarr@uci.edu 
         target: _blank    
-      - text: "{{< ai google-scholar >}}"
+      - text: "{{< ai google-scholar size=xl >}}"
         href: https://scholar.google.com/citations?user=mD3ITJkAAAAJ&hl=en
-        target: _blank         
+        target: _blank
+      - text: "{{< fa brands linkedin >}}"
+        href: 'https://www.linkedin.com/in/lynsiewarr'
+        target: _blank
       - icon: github
         href: https://github.com/lynsiewarr
         target: _blank
