@@ -17,8 +17,6 @@ website:
         href: index.qmd
       - text: Research
         href: research.qmd
-      - text: Teaching
-        href: teaching.qmd
       - text: CV
         href: files/navbar/cv-lynsiewarr.pdf
         target: _blank          
@@ -30,7 +28,7 @@ website:
         href: https://scholar.google.com/citations?user=mD3ITJkAAAAJ&hl=en
         target: _blank
       - text: "{{< fa brands linkedin >}}"
-        href: 'https://www.linkedin.com/in/lynsiewarr'
+        href: 'https://linkedin.com/in/lynsie-warr'
         target: _blank
       - icon: github
         href: https://github.com/lynsiewarr
